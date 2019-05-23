@@ -1,2 +1,2 @@
-# deployable
-deployable
+# deploy
+deploy
