@@ -14,6 +14,6 @@
   "author": "Tarun Sujanani",
   "license": "ts",
   "dependencies": {
-    "express": "^4.14.1"
+    "express": "^4.17.3"
   }
 }
